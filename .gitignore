@@ -1,0 +1,14 @@
+*.o
+*.dat
+*.smol
+cc/scc
+smol/smol
+smol/sas
+examples/*.sas
+tests/*.sas
+lib/sys.sas
+lib/stdio.sas
+lib/string.sas
+lib/ctype.sas
+lib/stdlib.sas
+examples/TEST.TXT

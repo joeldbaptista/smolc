@@ -1,0 +1,15 @@
+add: 11 22, a still 1 2
+nested: 222
+power: 16 81
+dot: 150
+copy: 99 20 30, bx.lo.x still 1
+lum: 120
+corner: 20 1
+through pointer: -5 -6
+chain: 7 8 7 8
+indirect: 10
+union: 8 2 1 1
+union write: 259
+tagged: u 259 16
+f = 5, sizes 3 40
+exit=0

@@ -1,0 +1,13 @@
+scalars: 3 6 q str
+arrays: 10 20 0 0, hello 6, hi 0 8
+structs: 1 0, 5 6, 5 6
+line: 1 2 3 4 xy
+union: 2 1
+global: 3 4 ab, 6 7 cd
+sizeof: 800 4 80
+span: 20, b.x still 3
+a b c ?: 300 7 8 2
+results: 20 20 n z 20
+unsized: 3 4 9 4 32, 3 4 32 z
+long names: 1 2
+exit=0

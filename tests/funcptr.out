@@ -1,0 +1,11 @@
+global: 5, table: 9 5 14
+add=9 sub=3 mul=18 p->fn=5
+local: 20 -1 9, (*fp): 4
+reassigned: 8, same: 1 0
+struct: 2 5, char *: yes o
+params: 42 42 81
+(*add): 3, sizeof: 8 24 48
+counter: 1101 2102 3103
+depth: 5 5
+first: 1 2, second: 281 282, first: 3
+exit=0

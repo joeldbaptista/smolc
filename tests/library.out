@@ -1,0 +1,15 @@
+scanf 3: 12 255 word
+fgets: second line
+ungetc: X X
+rest: 8, eof: 1
+atoi: -123 255
+xtoi: 9223372036854775807
+itod: [    -42] itox: [   FF]
+itou: [ 18446744073709551615]
+str: alphabeta 9 0 1
+chr: beta a
+lexcmp: 0 1
+ctype: 10110 Qq
+heap: 100 180 0
+freed: 1
+exit=0

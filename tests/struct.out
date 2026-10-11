@@ -1,0 +1,13 @@
+sizeof: 24 6 16 16 8 1 8
+sizeof expr: 16 8 1 16
+pad: A 1000 -3 at 0 8 16
+area = 6
+shifted = 13 14
+origin = 3 7
+name = zbcd b 4
+node 1
+node 2
+chain = 2 1
+array: 0 1 4 9, q - p = 3, q->y = 9, (*q).x = 3
+back: 1, q > p = 1
+exit=0

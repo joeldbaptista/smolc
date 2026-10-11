@@ -1,0 +1,12 @@
+n = 77
+local = 4 13 9
+jp - ip = 3, *jp = 8, ip[2] = 7
+bytes = 1
+ip < jp = 1, ip > jp = 0
+table[1] = 106, ip++ = 106, *ip = 7
+c = -56
+bytes = ABC, greet = hey, greet[1] = e
+apply add = 5
+apply sub = -1
+direct = 30
+exit=0

@@ -1,0 +1,5 @@
+argv[1] = one
+argv[2] = two-three
+argv[3] = 4
+getarg = two, argv[argc] = 0
+exit=4

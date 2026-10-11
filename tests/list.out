@@ -1,0 +1,10 @@
+append:   [1, 4, 9, 16, 25]
+push 0:   [0, 1, 4, 9, 16, 25]
+length = 6, sum = 55
+reverse:  [25, 16, 9, 4, 1, 0]
+find 9: yes
+find 7: no
+drop:     [16, 4, 1]
+insort:   [1, 2, 3, 5, 8, 9]
+nodes allocated = 6, reused = 6
+exit=0

@@ -1,0 +1,7 @@
+sum = 3, n = abc
+sizeof: 8 8 16 16 8 24 8 8
+mid = 4 6, now 10
+calls: 5 5 7 6
+union: 2 1
+static: 300 400 1 2 static 42
+exit=0

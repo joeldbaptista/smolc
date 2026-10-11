@@ -1,0 +1,10 @@
+sizes: 48 56 16 168 32 24
+apple 3 EUR red 1 2 3
+pear 5 USD - 4 0 0
+fig 0  - 0 0 0
+total = 38
+cash = -12 GBP
+line L: 1 2 - 7 9, mid 9
+grid: 20 3 30, pp - grid = 3, grid->y = 0
+local: b 5 6 1
+exit=0
