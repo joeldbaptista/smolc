@@ -293,7 +293,7 @@ Structs and unions are declared and used as in C:
 		return a;
 	}
 
-The compiler supports the following (complete list):
+The compiler supports the following:
 
 - struct and union definitions, global or local, and a tag used before
   its members are known, as `struct node *next` inside `struct node`
